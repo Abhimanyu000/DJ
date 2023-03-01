@@ -1,0 +1,40 @@
+body{
+    background-size: cover;
+    color: aliceblue;
+}
+
+.heade{
+    font-size: x-large;
+    margin: 0px;
+    width: 100%;
+}
+
+.NOTE{
+    font-size:medium;
+    color: rgb(3, 25, 104);
+}
+
+.speeeed{
+    width: 200px;
+    border-radius: 99.99999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999px;
+}
+
+.gifSPEED{
+    float: left;
+}
+
+.volume{
+    width: 200px;
+    border-radius: 99.99999999999999999999999999999999999999999999999999px;
+}
+
+.gifVolume{
+    float: right;
+}
+
+canvas{
+    border-radius: 15px;
+    border-color: rgb(234, 218, 218);
+    border-width: 15px;
+    border-style: dashed;
+}
